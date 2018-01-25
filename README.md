@@ -2,6 +2,7 @@
 
 [![Circle CI](https://img.shields.io/circleci/project/iansinnott/jstz.svg)](https://circleci.com/gh/iansinnott/jstz)
 [![JSTZ on NPM](https://img.shields.io/npm/v/jstz.svg)](https://www.npmjs.com/package/jstz)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fjstz.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fjstz?ref=badge_shield)
 
 Timezone detection for JavaScript
 
@@ -123,3 +124,7 @@ Other contributors:
 [8]: https://bitbucket.org/gdavidson
 [9]: https://github.com/JordanMagnuson
 [11]: https://bitbucket.org/mj1856
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fjstz.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fjstz?ref=badge_large)
